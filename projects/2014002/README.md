@@ -17,4 +17,7 @@
 
 ### B. Ενδιάμεση αναφορά
 
-... to be edited
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| p18mant|  Atari | [Image1](https://github.com/p18mant/gr/blob/gh-pages/images/atari-video-computer-system.jpg) &nbsp; [Image 160px](https://github.com/p18mant/gr/blob/gh-pages/images/atari-video-computer-system-thumb.jpg)|Κείμενο περιγραφής |[Link](https://pixabay.com/el/service/license/)|Τύπος άδειας|Video Games|Atari Inc.|
+
