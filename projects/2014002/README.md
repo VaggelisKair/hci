@@ -3,7 +3,7 @@
 ### Στοιχεία φοιτητή
 |  Ονοματεπώνυμο  | Αριθμός μητρώου | Github link |
 | ------ | ------ | ------ |
-| Ευάγγελος Κάιρας | 2014002 | [Click here ](https://github.com/VaggelisKair/hci/tree/master/projects) |
+| Ευάγγελος Κάιρας | 2014002 | [Click here ](https://github.com/VaggelisKair)|
 
 
 ## Ασκήσεις (Α) & Ενδιάμεση αναφορά (Β)
