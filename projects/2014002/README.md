@@ -19,10 +19,10 @@
 
 #### Άσκηση Α
 
-| Θέμα | Περιγραφή | Παραδοτέο | Εικόνες |
+| Θέμα | Περιγραφή | Aρχείο | Εικόνες |
 | ----- | ----- | ----- | ----- |
 | 1. Rasberry Pi | πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση | [Rasperrypi4.md](https://github.com/VaggelisKair/gr/blob/gh-pages/_gallery/raspberrypi4.md) | [img original](https://github.com/VaggelisKair/gr/blob/gh-pages/images/raspberrypi4.jpg), [img 160](https://github.com/VaggelisKair/gr/blob/gh-pages/images/raspberrypi4-thumb.jpg) |
-| 2.  | ... | ... | ... |
+| 2. Iphone | ... | [iphone.md] |... |
 | 3.  | ... | ... | ... |
 | 4.  | ... | ... | ... |
 | 5.  | ... | ... | ... |
