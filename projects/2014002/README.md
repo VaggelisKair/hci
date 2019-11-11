@@ -23,6 +23,6 @@
 | ----- | ----- | ----- | ----- |
 | 1. Rasberry Pi | πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση | [Rasperrypi4.md](https://github.com/VaggelisKair/gr/blob/gh-pages/_gallery/raspberrypi4.md) | [img original](https://github.com/VaggelisKair/gr/blob/gh-pages/images/raspberrypi4.jpg), [img 160](https://github.com/VaggelisKair/gr/blob/gh-pages/images/raspberrypi4-thumb.jpg) |
 | 2. Iphone | ... |[Iphone.md](https://github.com/VaggelisKair/gr/blob/gh-pages/_gallery/iphone.md)|[img original](https://github.com/VaggelisKair/gr/blob/gh-pages/images/iphone.png), [img 160](https://github.com/VaggelisKair/gr/blob/gh-pages/images/iphone-thumb.png) |
-| 3. Bitcoin | ... | [bitcoin.md](https://github.com/VaggelisKair/gr/blob/gh-pages/_gallery/bitcoin.md) | [img original] (https://github.com/VaggelisKair/gr/blob/gh-pages/images/bitcoin.jpg), [img 160] (https://github.com/VaggelisKair/gr/blob/gh-pages/images/bitcoin-thumb.jpg) |
+| 3. Bitcoin | ... | [bitcoin.md](https://github.com/VaggelisKair/gr/blob/gh-pages/_gallery/bitcoin.md)|[img original](https://github.com/VaggelisKair/gr/blob/gh-pages/images/bitcoin.jpg), [img 160](https://github.com/VaggelisKair/gr/blob/gh-pages/images/bitcoin-thumb.jpg) |
 | 4.  | ... | ... | ... |
 | 5.  | ... | ... | ... |
