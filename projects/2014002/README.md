@@ -10,14 +10,19 @@
 
 ### A. Ασκήσεις
 | Άσκηση | Περιγραφή | Παραδοτέο |
-| ----- | ----- | ----- |
-| Άσκηση 1 | set-up the main dependencies and demonstrate your base system | https://asciinema.org/a/qldEWNkmkH3xlFZAM3hsFQX4a |
+| ----- | ----- | ----- | 
+| Άσκηση 1 | set-up the main dependencies and demonstrate your base system | https://asciinema.org/a/280315 |
 | Άσκηση 2 | ... | ... |
 
 
 ### B. Ενδιάμεση αναφορά
 
-| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
-| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
-| p18kair|  Atari | [Image1](https://github.com/p18mant/gr/blob/gh-pages/images/atari-video-computer-system.jpg) &nbsp; [Image 160px](https://github.com/p18mant/gr/blob/gh-pages/images/atari-video-computer-system-thumb.jpg)|Κείμενο περιγραφής |[Link](https://pixabay.com/el/service/license/)|Τύπος άδειας|Video Games|Atari Inc.|
+#### Άσκηση Α
 
+| Θέμα | Περιγραφή | Παραδοτέο | Εικόνες |
+| ----- | ----- | ----- | ----- |
+| 1. Rasberry Pi | πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση | [Rasperrypi4.md](https://github.com/VaggelisKair/gr/blob/gh-pages/_gallery/raspberrypi4.md) | [img original](https://github.com/VaggelisKair/gr/blob/gh-pages/images/raspberrypi4.jpg), [img 160](https://github.com/VaggelisKair/gr/blob/gh-pages/images/raspberrypi4-thumb.jpg) |
+| 2.  | ... | ... | ... |
+| 3.  | ... | ... | ... |
+| 4.  | ... | ... | ... |
+| 5.  | ... | ... | ... |
