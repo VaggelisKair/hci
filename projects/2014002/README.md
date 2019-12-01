@@ -13,7 +13,7 @@
 | ----- | ----- | ----- | 
 | Άσκηση 1 | set-up the main dependencies and demonstrate your base system | https://asciinema.org/a/280315 |
 | Άσκηση 2 | get familiar with basic commands, reading documentation and editing files | https://asciinema.org/a/xxzBG0Rgufx6E4RnuiZQ3UubL |
-
+| Άσκηση 3 | create a list of todos, edit, delete, and check some of them | https://asciinema.org/a/yKyeHmNDE8LmAzluCN7DRFXey |
 
 
 ### B. Ενδιάμεση αναφορά
