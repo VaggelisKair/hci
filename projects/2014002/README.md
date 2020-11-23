@@ -12,7 +12,7 @@
 | 2 | Άσκηση προγραμματισμού ή βιογραφικό  (SW) |
 | 3 | Ασκηση γραμμής εντολών set-up the main dependencies and demonstrate your base system  https://asciinema.org/a/280315 |
 | 4 | Άσκηση προγραμματισμού και αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | Ασκηση γραμμής εντολών get familiar with basic commands, reading documentation and editing files  https://asciinema.org/a/xxzBG0Rgufx6E4RnuiZQ3UubL |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
